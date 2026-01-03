@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a web developer<br>I'm currently learning Devops <br>I'm currently working on Jury-AI project <br>
+I'm a Web Developer<br>I'm currently learning DevOps <br>I'm currently working on Jury-AI Project <br>
 
 
 ## 🌐 Socials:
