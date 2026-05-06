@@ -1,21 +1,97 @@
-# 💫 About Me:
-🔭 I’m currently working on Video Conferencing WebApp.<br>👯 I’m looking to collaborate on Full Stack projects. <br>🤝 I’m looking for help with WebApp Development.<br>🌱 I’m currently learning  Backend Technologies in Deep.<br>💬 Ask me about  - React, Node.js, REST APIs & Full Stack Development.<br>⚡ I can spend hours optimizing small details in code. 
+# Hi, I'm Rajendra 👋
 
+**MERN Stack Developer** | Final Year B.E. AIML @ PES's Modern College of Engineering, Pune
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajendra-margale-803484343/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajendramargale8767@gmail.com) 
+I build full-stack web apps — from responsive UIs to secure backend architectures. My focus is on clean code, real-world usability and integrating AI where it adds value.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RajendraMargale22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RajendraMargale22&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RajendraMargale22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RajendraMargale22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Currently: Deep-diving into DSA (C++), shipping new projects and actively looking for **full-stack / backend roles** — remote or on-site across Pune, Bangalore, Hyderabad, Mumbai.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RajendraMargale22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Projects
+
+### [SpeakMind](https://speak-mind-pi.vercel.app/) — AI Chatbot Application
+> MERN stack · OpenAI API · JWT · Refresh Tokens · Sliding Window Context
+
+A ChatGPT-style AI chatbot with persistent thread-based conversations and context-aware responses. Built a secure JWT architecture with access + refresh tokens stored in HTTP-only cookies. Solved the stateless AI problem using sliding window memory and incremental summarization to handle long conversations without hitting token limits.
+
+**[Live Demo](https://speak-mind-pi.vercel.app/) · [GitHub](https://github.com/RajendraMargale22/SpeakMind)**
+
+---
+
+### [HostelHaven](https://hostel-haven-blush.vercel.app/) — Student Accommodation Finder
+> React · Node.js · Express · MongoDB · JWT · Role-based Access
+
+A full-stack platform for Pune students to find and book verified hostels and PGs. Built role-based access for students, hostel owners and admins. Admin dashboard handles CRUD for listings, bookings and users. Handles async booking workflows with ownership-based authorization.
+
+**[Live Demo](https://hostel-haven-blush.vercel.app/) · [GitHub](https://github.com/RajendraMargale22/HostelHaven)**
+
+---
+
+### [JURY-AI](https://github.com/RajendraMargale22/JURY-AI) — AI Legal Assistant Platform *(In Progress)*
+> React · Express · FastAPI · MongoDB · Google Gemini · Pinecone · LangChain
+
+Team project. My role: Frontend Developer. Built the full responsive frontend — role-based UI for Users, Lawyers and Admins — with chat interface, document upload, template management and protected routes. Backend uses vector search (Pinecone) + Gemini AI for context-aware legal advice.
+
+**[GitHub](https://github.com/RajendraMargale22/JURY-AI)**
+
+---
+
+### [Velmora](https://velmora-23cd.onrender.com) — Hotel Booking & Listing Platform
+> Node.js · Express · EJS · MongoDB · Passport.js · Mapbox · Cloudinary
+
+Full-stack hotel listing and review platform. MVC architecture with Passport.js auth, Mapbox for location maps, Cloudinary for image storage and Joi for validation. Clean CRUD with ownership-based access control.
+
+**[Live Demo](https://velmora-23cd.onrender.com) · [GitHub](https://github.com/RajendraMargale22/Velmora)**
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+`React` `JavaScript` `HTML5` `CSS3` `Bootstrap` `TailwindCSS` `Vite` `Three.js` `GSAP`
+
+**Backend**
+`Node.js` `Express.js` `REST APIs` `Socket.io` `JWT`
+
+**Databases**
+`MongoDB` `MySQL` `PostgreSQL`
+
+**Tools**
+`Git` `GitHub` `Postman` `Figma` `Vercel` `Render`
+
+**Programming Languages**
+`Python` `C` `C++` `JavaScript` `TypeScript`
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=RajendraMargale22&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=RajendraMargale22&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajendraMargale22&theme=dark&hide_border=true&layout=compact&count_private=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=RajendraMargale22&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+## 📬 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ashy-eta-51.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajendra-margale-803484343/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/RajendraMargale/)
+[![GFG](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/rajendrama9zik)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajendramargale2211@gmail.com)
+
+---
+
+## 📌 Currently
+
+- 🔨 Building new projects.
+- 📚 DSA in C++.
+- 🎓 Final Year B.E. AIML, graduating 2026.
+- 👀 Open to full-stack / backend roles — remote or on-site (Pune, Bangalore, Hyderabad, Mumbai).
