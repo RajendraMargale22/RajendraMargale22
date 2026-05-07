@@ -96,11 +96,11 @@ Full-stack hotel listing and review platform. MVC architecture with Passport.js 
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RajendraMargale22&show_icons=true&theme=dark)
+![Stats](https://github-stats-alpha.vercel.app/api?username=RajendraMargale22&cc=000&tc=fff&ic=fff&bc=000)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajendraMargale22&theme=dark)
+![Streak](https://streak-stats.demolab.com?user=RajendraMargale22&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajendraMargale22&layout=compact&theme=github_dark&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RajendraMargale22&layout=compact&theme=dark)
 
 ---
 
