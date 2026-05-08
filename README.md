@@ -6,9 +6,9 @@
 
 **MERN Stack Developer** | Final Year B.E. AIML @ PES's Modern College of Engineering, Pune
 
-I build full-stack web apps — from responsive UIs to secure backend architectures. My focus is clean code, real-world usability, and integrating AI where it adds value.
+I build full-stack web apps — from responsive UIs to secure backend architectures. My focus is clean code, real-world usability and integrating AI where it adds value.
 
-Currently deep-diving into DSA (C++), shipping new projects, and actively looking for **full-stack / backend roles** — remote or on-site across Pune, Bangalore, Hyderabad, Mumbai.
+Currently deep-diving into DSA (C++), shipping new projects and actively looking for **full-stack / backend roles** — remote or on-site across Pune, Bangalore, Hyderabad & Mumbai.
 
 ---
 
@@ -26,7 +26,7 @@ A ChatGPT-style AI chatbot with persistent thread-based conversations and contex
 ### [HostelHaven](https://hostel-haven-blush.vercel.app/) — Student Accommodation Finder
 > React · Node.js · Express · MongoDB · JWT · Role-based Access
 
-Full-stack platform for Pune students to find and book verified hostels and PGs. Built role-based access for students, hostel owners, and admins. Admin dashboard handles CRUD for listings, bookings, and users. Handles async booking workflows with ownership-based authorization.
+Full-stack platform for Pune students to find and book verified hostels and PGs. Built role-based access for students, hostel owners and admins. Admin dashboard handles CRUD for listings, bookings and users. Handles async booking workflows with ownership-based authorization.
 
 **[Live Demo](https://hostel-haven-blush.vercel.app/) · [GitHub](https://github.com/RajendraMargale22/HostelHaven)**
 
@@ -35,7 +35,7 @@ Full-stack platform for Pune students to find and book verified hostels and PGs.
 ### [JURY-AI](https://github.com/RajendraMargale22/JURY-AI) — AI Legal Assistant Platform *(In Progress)*
 > React · Express · FastAPI · MongoDB · Google Gemini · Pinecone · LangChain
 
-Team project. Role: Frontend Developer. Built the full responsive frontend — role-based UI for Users, Lawyers, and Admins — with chat interface, document upload, template management, and protected routes. Backend uses vector search (Pinecone) + Gemini AI for context-aware legal advice.
+Team project. Role: Frontend Developer. Built the full responsive frontend — role-based UI for Users, Lawyers and Admins — with chat interface, document upload, template management and protected routes. Backend uses vector search (Pinecone) + Gemini AI for context-aware legal advice.
 
 **[GitHub](https://github.com/RajendraMargale22/JURY-AI)**
 
@@ -44,7 +44,7 @@ Team project. Role: Frontend Developer. Built the full responsive frontend — r
 ### [Velmora](https://velmora-23cd.onrender.com) — Hotel Booking & Listing Platform
 > Node.js · Express · EJS · MongoDB · Passport.js · Mapbox · Cloudinary
 
-Full-stack hotel listing and review platform. MVC architecture with Passport.js auth, Mapbox for location maps, Cloudinary for image storage, and Joi validation. Clean CRUD with ownership-based access control.
+Full-stack hotel listing and review platform. MVC architecture with Passport.js auth, Mapbox for location maps, Cloudinary for image storage and Joi validation. Clean CRUD with ownership-based access control.
 
 **[Live Demo](https://velmora-23cd.onrender.com) · [GitHub](https://github.com/RajendraMargale22/Velmora)**
 
@@ -143,6 +143,6 @@ Full-stack hotel listing and review platform. MVC architecture with Passport.js 
 ## 📌 Currently
 
 - 🔨 Building new projects this week
-- 📚 DSA in C++ — completed through Trees, finishing by June 2026
+- 📚 DSA in C++ 
 - 🎓 Final Year B.E. AIML, graduating 2026
-- 👀 Open to full-stack / backend roles — remote or on-site (Pune, Bangalore, Hyderabad, Mumbai)
+- 👀 Open to full-stack / development roles — remote or on-site (Pune, Bangalore, Hyderabad, Mumbai)
