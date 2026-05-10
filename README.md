@@ -107,7 +107,7 @@ Full-stack hotel listing and review platform. MVC architecture with Passport.js 
 ## ⏱ Coding Activity
 
 <!-- After WakaTime setup, replace YOUR_WAKATIME_USERNAME with your actual username -->
-[![wakatime](https://wakatime.com/@RajendraMargale.png)](https://wakatime.com/@RajendraMargale)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=RajendraMargale&theme=dark&hide_border=true)](https://wakatime.com/@RajendraMargale)
 
 ---
 
