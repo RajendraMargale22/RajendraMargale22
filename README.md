@@ -103,12 +103,12 @@ Full-stack hotel listing and review platform. MVC architecture with Passport.js 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RajendraMargale22&layout=compact&theme=dark)
 
 ---
-
+<!--
 ## ⏱ Coding Activity
 
-<!-- After WakaTime setup, replace YOUR_WAKATIME_USERNAME with your actual username -->
+<!-- After WakaTime setup, replace YOUR_WAKATIME_USERNAME with your actual username 
 [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=RajendraMargale&theme=dark&hide_border=true)](https://wakatime.com/@RajendraMargale)
-<!--
+
 [![wakatime](https://wakatime.com/badge/user/85f44934-d2b4-4d8e-8896-ed5434e3c84c.svg)](https://wakatime.com/@85f44934-d2b4-4d8e-8896-ed5434e3c84c)
 -->
 ---
