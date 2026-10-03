@@ -4,7 +4,7 @@
 
 # Rajendra Margale
 
-**MERN Stack Developer** | Final Year B.E. AIML @ PES's Modern College of Engineering, Pune
+**MERN Stack Developer** | B.E. AIML @ PES's Modern College of Engineering, Pune
 
 I build full-stack web apps — from responsive UIs to secure backend architectures. My focus is clean code, real-world usability and integrating AI where it adds value.
 
