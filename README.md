@@ -8,7 +8,7 @@
 
 I build full-stack web apps — from responsive UIs to secure backend architectures. My focus is clean code, real-world usability and integrating AI where it adds value.
 
-Currently deep-diving into DSA (C++), shipping new projects and actively looking for **full-stack / backend roles** — remote or on-site across Pune, Bangalore, Hyderabad & Mumbai.
+Currently deep-diving into DSA (C++), shipping new projects and actively looking for **full-stack / backend roles** — remote or on-site.
 
 ---
 
@@ -100,7 +100,9 @@ Full-stack hotel listing and review platform. MVC architecture with Passport.js 
 
 ![Streak](https://streak-stats.demolab.com?user=RajendraMargale22&theme=dark&hide_border=true)
 
+<!--
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RajendraMargale22&layout=compact&theme=dark)
+-->
 
 ---
 <!--
@@ -111,6 +113,8 @@ Full-stack hotel listing and review platform. MVC architecture with Passport.js 
 
 [![wakatime](https://wakatime.com/badge/user/85f44934-d2b4-4d8e-8896-ed5434e3c84c.svg)](https://wakatime.com/@85f44934-d2b4-4d8e-8896-ed5434e3c84c)
 -->
+
+<!--
 ---
 
 ## 📈 DSA Progress
@@ -119,6 +123,8 @@ Full-stack hotel listing and review platform. MVC architecture with Passport.js 
 
 ---
 
+-->
+
 ## 🐍 Contribution Graph
 
 <!-- This image appears after you complete the GitHub Actions snake setup -->
@@ -126,10 +132,13 @@ Full-stack hotel listing and review platform. MVC architecture with Passport.js 
 
 ---
 
+<!--
+
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=RajendraMargale22&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+-->
 ---
 
 ## 📬 Connect
@@ -144,7 +153,7 @@ Full-stack hotel listing and review platform. MVC architecture with Passport.js 
 
 ## 📌 Currently
 
-- 🔨 Building new projects this week
+- 🔨 Building new projects this week 
 - 📚 DSA in C++ 
-- 🎓 Final Year B.E. AIML, graduating 2026
-- 👀 Open to full-stack / development roles — remote or on-site (Pune, Bangalore, Hyderabad, Mumbai)
+- 🎓 B.E. AIML Graduate 2026
+- 👀 Open to full-stack / development roles — remote or on-site.
