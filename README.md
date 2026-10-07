@@ -16,7 +16,7 @@ Currently deep-diving into DSA (C++), shipping new projects and actively looking
 
 ### Solo Projects
 
-### [Conexa](https://conexa-webrtc.vercel.app/) — Video Conferencing Platform
+### [Conexa](https://conexa-six.vercel.app/) — Video Conferencing Platform
 > React · Node.js · WebRTC · Socket.io · MongoDB · JWT
 
 Real-time video conferencing platform with multi-user rooms, screen sharing and live chat. Built peer-to-peer communication using WebRTC and Socket.io for low-latency connections. Implemented token-based authentication with bcrypt and designed RESTful APIs with Express.js.
