@@ -4,7 +4,7 @@
 
 # Rajendra Margale
 
-**MERN Stack Developer** | B.E. AIML @ PES's Modern College of Engineering, Pune
+**MERN Stack Developer** | B.E. AIML @ PES's Modern College of Engineering, Pune (2026)
 
 I build full-stack web apps — from responsive UIs to secure backend architectures. My focus is clean code, real-world usability and integrating AI where it adds value.
 
@@ -14,30 +14,23 @@ Currently deep-diving into DSA (C++), shipping new projects and actively looking
 
 ## 🚀 Projects
 
+### Solo Projects
+
+### [Conexa](https://conexa-webrtc.vercel.app/) — Video Conferencing Platform
+> React · Node.js · WebRTC · Socket.io · MongoDB · JWT
+
+Real-time video conferencing platform with multi-user rooms, screen sharing and live chat. Built peer-to-peer communication using WebRTC and Socket.io for low-latency connections. Implemented token-based authentication with bcrypt and designed RESTful APIs with Express.js.
+
+**[Live Demo](https://conexa-six.vercel.app/) · [GitHub](https://github.com/RajendraMargale22/Conexa)**
+
+---
+
 ### [SpeakMind](https://speak-mind-pi.vercel.app/) — AI Chatbot Application
 > MERN Stack · OpenAI API · JWT · Refresh Tokens · Sliding Window Context
 
-A ChatGPT-style AI chatbot with persistent thread-based conversations and context-aware responses. Built a secure JWT architecture with access + refresh tokens in HTTP-only cookies. Solved the stateless AI problem using sliding window memory and incremental summarization for long conversations without hitting token limits.
+A ChatGPT-style AI chatbot with persistent thread-based conversations and context-aware responses. Built a secure JWT architecture with access + refresh tokens in HTTP-only cookies. Reduced context loss in long conversations by ~80% using sliding window memory and incremental summarization, staying within API token limits.
 
 **[Live Demo](https://speak-mind-pi.vercel.app/) · [GitHub](https://github.com/RajendraMargale22/SpeakMind)**
-
----
-
-### [HostelHaven](https://hostel-haven-blush.vercel.app/) — Student Accommodation Finder
-> React · Node.js · Express · MongoDB · JWT · Role-based Access
-
-Full-stack platform for Pune students to find and book verified hostels and PGs. Built role-based access for students, hostel owners and admins. Admin dashboard handles CRUD for listings, bookings and users. Handles async booking workflows with ownership-based authorization.
-
-**[Live Demo](https://hostel-haven-blush.vercel.app/) · [GitHub](https://github.com/RajendraMargale22/HostelHaven)**
-
----
-
-### [JURY-AI](https://github.com/RajendraMargale22/JURY-AI) — AI Legal Assistant Platform *(In Progress)*
-> React · Express · FastAPI · MongoDB · Google Gemini · Pinecone · LangChain
-
-Team project. Role: Frontend Developer. Built the full responsive frontend — role-based UI for Users, Lawyers and Admins — with chat interface, document upload, template management and protected routes. Backend uses vector search (Pinecone) + Gemini AI for context-aware legal advice.
-
-**[GitHub](https://github.com/RajendraMargale22/JURY-AI)**
 
 ---
 
@@ -47,6 +40,28 @@ Team project. Role: Frontend Developer. Built the full responsive frontend — r
 Full-stack hotel listing and review platform. MVC architecture with Passport.js auth, Mapbox for location maps, Cloudinary for image storage and Joi validation. Clean CRUD with ownership-based access control.
 
 **[Live Demo](https://velmora-23cd.onrender.com) · [GitHub](https://github.com/RajendraMargale22/Velmora)**
+
+---
+
+### Team Projects
+
+### [HostelHaven](https://hostel-haven-blush.vercel.app/) — Student Accommodation Finder
+> React · Node.js · Express · MongoDB · JWT · Role-based Access
+> Role: Frontend Developer
+
+Full-stack platform for Pune students to find and book verified hostels and PGs. Built role-based access for students, hostel owners and admins. Admin dashboard handles CRUD for listings, bookings and users. Handles async booking workflows with ownership-based authorization.
+
+**[Live Demo](https://hostel-haven-blush.vercel.app/) · [GitHub](https://github.com/RajendraMargale22/HostelHaven)**
+
+---
+
+### [JURY-AI](https://github.com/RajendraMargale22/JURY-AI) — AI Legal Assistant Platform *(In Progress)*
+> React · Express · FastAPI · MongoDB · Google Gemini · Pinecone · LangChain
+> Role: Frontend Developer
+
+Built the full responsive frontend — role-based UI for Users, Lawyers and Admins — with chat interface, document upload, template management and protected routes. Backend uses vector search (Pinecone) + Gemini AI for context-aware legal advice.
+
+**[GitHub](https://github.com/RajendraMargale22/JURY-AI)**
 
 ---
 
@@ -74,7 +89,7 @@ Full-stack hotel listing and review platform. MVC architecture with Passport.js 
 ### Backend:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-<!--![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)-->
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### Databases:
@@ -90,7 +105,6 @@ Full-stack hotel listing and review platform. MVC architecture with Passport.js 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white)
-
 
 ---
 
@@ -127,7 +141,6 @@ Full-stack hotel listing and review platform. MVC architecture with Passport.js 
 
 ## 🐍 Contribution Graph
 
-<!-- This image appears after you complete the GitHub Actions snake setup -->
 ![Snake](https://raw.githubusercontent.com/RajendraMargale22/RajendraMargale22/output/github-snake-dark.svg)
 
 ---
@@ -139,6 +152,7 @@ Full-stack hotel listing and review platform. MVC architecture with Passport.js 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=RajendraMargale22&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 -->
+
 ---
 
 ## 📬 Connect
@@ -153,7 +167,7 @@ Full-stack hotel listing and review platform. MVC architecture with Passport.js 
 
 ## 📌 Currently
 
-- 🔨 Building new projects this week 
-- 📚 DSA in C++ 
-- 🎓 B.E. AIML Graduate 2026
-- 👀 Open to full-stack / development roles — remote or on-site.
+- 🔨 Building new projects
+- 📚 DSA in C++
+- 🎓 B.E. AIML Graduate — PES's Modern College of Engineering, Pune (2026)
+- 👀 Open to full-stack / backend roles — remote or on-site
